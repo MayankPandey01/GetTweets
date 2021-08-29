@@ -11,7 +11,7 @@ It can be used in many ways to Automate your Notekeeping or Reconnaissance Proce
 
 ![enter image description here](https://user-images.githubusercontent.com/29165227/131255854-b6297f42-62fb-4a67-8615-1e6c1af14210.png)
 ## Installation
-- ` https://github.com/MayankPandey01/GetTweets.git`
+- ` git clone https://github.com/MayankPandey01/GetTweets.git`
 - After Installation Setup the `config.py` file using Your Tokens From Twitter Developer Account and Github
 
 ## Recommended Python Version:
